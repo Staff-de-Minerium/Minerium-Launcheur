@@ -1,13 +1,13 @@
 {
-  "name": "helioslauncher",
+  "name": "mineriumlauncheur",
   "version": "1.8.0",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "productName": "Minerium Launcheur",
+  "description": "Minerium Pvp Faction",
+  "author": "Le Staff de Minerium",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "homepage": "http://minerium.infinityfreeapp.com/",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "http://minerium.infinityfreeapp.com/"
   },
   "private": true,
   "main": "index.js",
@@ -47,6 +47,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/Staff-De-Minerium/Minerium-Launcheur.git"
   }
 }
